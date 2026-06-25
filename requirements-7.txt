@@ -1,0 +1,6 @@
+ebooklib
+beautifulsoup4
+voyageai
+psycopg2-binary
+python-dotenv
+pypdf
